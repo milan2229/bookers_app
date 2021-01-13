@@ -20,7 +20,9 @@
 /*h2{*/
 /*  margin-left: 30px;*/
 /*}*/
-
+new_book{
+  background-color: red
+}
 body{
   margin-left: 30px;
 }
